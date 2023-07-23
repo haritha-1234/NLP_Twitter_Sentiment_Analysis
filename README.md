@@ -15,16 +15,18 @@ pip install --upgrade pip
 pip install -r requirements.txt
 ```
 <br>
-The added [requirements file](<./requirements.txt>) contains all libraries and dependencies we need to execute Pandas and <br>Numpy.
+
+The added ```requirements.txt``` contains all libraries and dependencies we need to execute Pandas and <br>Numpy.
 <br>
 In case of any error using the above commands, try removing the version number of the packages from the ```requirements.txt``` file. For me, it worked like that only.
+
 <br>
 
 ## Stakeholder info
 - Stakeholders can be any company who has a search engine such as Google. Or any other media company whos job is to<br> deal with text data. Or can be an online selling company which sells certain products and have to deal with the reviews of the<br> customers for their better performances.
 
 ## Data Structure
-The data here are the comments from Twitter. And is stored in the ```data```folder in this repository. We first have to filter the required data and then do the analysis.
+The data here are the comments from Twitter. And is stored in the ```data``` folder in this repository. We first have to filter the required data and then do the analysis.
 - Input: Twitter tweets (text data)
 - Output: Sentiment (0 or 1)
 
@@ -38,7 +40,7 @@ and see the `Evaluation matrix`. <br>
 
 ## Machine Learning model and Results
 - This is a classification peoblem. So I decided to try Naive Bayes model.
-- The model gave pretty good result at the end which was a total accuracy of 0.94
+- The model gave pretty good result at the end which was a total accuracy of ```0.94```.
 
 ## Outlook
 - We can try out other classification model such as Random Forest or XGBoost classifier and can check the performance again.
