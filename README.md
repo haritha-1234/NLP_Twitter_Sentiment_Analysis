@@ -1,7 +1,7 @@
 # Twitter Sentiment Analysis
 
 ## Overview
-In this repository, we will be doing a detailed analysis on Twitter data. The goal is to do a Twitter Sentimet<br> Analysis, which comes under Natural Language Processing (NLP). As you know, NLP is a brach of Data Science which<br> is in high demand now a days and as a Data Scientist, its important to know the basics of the algorithm and how it<br> works. We are given the data, which are the Twitter comments. the idea here is to predict the sentiment of each of the comments. That is whether its Negative or Positive.
+In this repository, we will be doing a detailed analysis on Twitter data. The goal is to do a Sentiment Analysis<br> on this data, which comes under Natural Language Processing (NLP). As you know, NLP is a brach of Data Science which<br> is in high demand now a days and as a Data Scientist, its important to know the basics of the algorithm and how it<br> works. We are given the data, which are the Twitter comments. the idea here is to predict the sentiment of each of the comments. That is whether its Negative or Positive.
 
 Please make sure you have **forked** the repo and set up a new virtual environment.<br>
 
